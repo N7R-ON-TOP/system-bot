@@ -22,4 +22,4 @@ client.on('messageCreate', message => {
 
 });
 
-client.login("حط_التوكن");
+client.login("process.env.TOKEN");
